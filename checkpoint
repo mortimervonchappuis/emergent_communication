@@ -1,0 +1,2 @@
+model_checkpoint_path: "com_batch_approx"
+all_model_checkpoint_paths: "com_batch_approx"
